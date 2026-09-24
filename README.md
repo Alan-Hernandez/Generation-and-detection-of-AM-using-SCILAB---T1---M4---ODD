@@ -95,6 +95,9 @@ Compare the original modulating signal with the demodulated signal.
 # CODING 
 <img width="1306" height="1600" alt="image" src="https://github.com/user-attachments/assets/83ef7d5e-f563-4db3-b907-777bfd41ae4f" />
 
+# GRAPH
+<img width="1566" height="875" alt="image" src="https://github.com/user-attachments/assets/3dd91951-2bfd-4334-9080-5bc6887f492e" />
+
 # RESULT 
 <img width="1600" height="620" alt="image" src="https://github.com/user-attachments/assets/7265c5c3-653b-4b0c-82a6-d82b897fdbe2" />
 
